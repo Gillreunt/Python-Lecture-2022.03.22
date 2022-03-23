@@ -1,0 +1,16 @@
+
+ÇÑ±Û Ç¥±â ¹æ½Ä
+1. ±¹°¡ Ç¥ÁØ
+	EUC-KR (CP949, ANSI)
+	ms-office, ÇÑ±Û, µî
+	ms-windows
+	2 ¹ÙÀÌÆ® ¿Ï¼ºÇü (°¡-ÆR)
+	
+
+2. ÀÎÅÍ³Ý Ç¥ÁØ
+	UTF-8
+	À¥, DB, ÇÁ·Î±×·¥, ÆÄÀÌ½ã µî
+	3 ¹ÙÀÌÆ® Á¶ÇÕÇü ( ÃÊ¼º + Áß¼º + Á¾¼º )
+				ÀÚÀ½	   ¸ðÀ½   ¹ÞÄ§              #¹ÞÄ§ÀÌ ¾ø¾îµµ ÇÑÀÚ¸® Â÷Áö Áß
+		ex)°£	 ¤¡     ¤¿    ¤¤	
+		
